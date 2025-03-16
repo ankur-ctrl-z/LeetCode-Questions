@@ -17,10 +17,6 @@ public class Kth_Root {
         while (lo <= hi) {
             int mid = (lo + hi) / 2;
             if (Math.pow(mid, k) <= n) {
-                // we are updating ans here and modifying lo because if we find this if check
-                // true but we need the highest one who can satisfy this if check and always
-                // thing this will not go in an infinte loop because somewhere lo will be higher
-                // than hi and loop will exit
                 ans = mid;
                 lo = mid + 1;
             } else {
