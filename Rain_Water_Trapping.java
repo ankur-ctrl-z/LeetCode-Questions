@@ -4,7 +4,7 @@ public class Rain_Water_Trapping {
         int[] arr = { 0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1 };
         System.out.println(Trapping(arr));
 
-    }//
+    }
 
     public static int Trapping(int[] arr) {
         int n = arr.length;
