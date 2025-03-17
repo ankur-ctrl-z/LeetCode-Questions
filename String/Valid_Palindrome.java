@@ -1,4 +1,3 @@
-public
 package String;
 
 class Valid_Palindrome {
