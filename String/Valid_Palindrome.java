@@ -17,4 +17,4 @@ class Valid_Palindrome {
         }
         return true;
     }
-}
+} // this is comment 
