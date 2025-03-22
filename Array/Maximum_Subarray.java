@@ -1,3 +1,5 @@
+package Array;
+
 public class Maximum_Subarray {
     class Solution {
         public int maxSubArray(int[] arr) {
