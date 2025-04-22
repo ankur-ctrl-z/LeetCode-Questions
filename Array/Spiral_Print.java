@@ -8,7 +8,7 @@ public class Spiral_Print {
 
     public static void print(int[][] arr) {
         int minr = 0, minc = 0, maxr = arr.length - 1, maxc = arr[0].length - 1;
-        int te = arr.length * arr[0].length;
+        int te = arr.length * arr[0].length; 
         int c = 0;
         while (c < te) {
             for (int i = minc; i <= maxc && c < te; i++) {
