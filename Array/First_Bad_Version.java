@@ -1,7 +1,7 @@
 package Array; 
  
 public class First_Bad_Version { 
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         // TODO Auto-generated method stub
         System.out.println(firstBadVersion(9));
     }
