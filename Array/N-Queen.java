@@ -6,7 +6,7 @@ class Solution {
         boolean[][] board = new boolean[n][n];
         List<List<String>> ans = new ArrayList<>();
         solve(board, 0, ans);
-        return 
+        return ans;
     }
 
     public void solve(boolean[][] board, int row, List<List<String>> ans) {
