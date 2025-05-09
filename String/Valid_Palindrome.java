@@ -1,7 +1,7 @@
 package String;   
       
 class Valid_Palindrome {
-    public boolean isPalindrome(String s) {
+    public boolean isPalindrome(String s) { 
         String str = ""; 
         str = s.toLowerCase().replaceAll("[^a-z0-9]", "");
 
