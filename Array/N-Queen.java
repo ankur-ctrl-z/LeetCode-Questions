@@ -3,7 +3,7 @@ public class N-Queen {
 
 class Solution {
     public List<List<String>> solveNQueens(int n) {
-        boolean[][] board = new boolean[n][n];
+        boolean[][] board = new boolean[n][n]; 
         List<List<String>> ans = new ArrayList<>();
         solve(board, 0, ans);
         return ans;
