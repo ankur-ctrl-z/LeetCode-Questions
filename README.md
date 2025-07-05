@@ -90,8 +90,3 @@ Feel free to:
 ## ⭐ Support
 
 If you find this repository helpful, please consider giving it a **star** ⭐.  
-
----
-
-> _“Practice makes progress. Keep grinding!”_
-
