@@ -50,8 +50,8 @@ Each folder contains problems related to a specific topic, along with solution f
 If you find any improvements, feel free to **open an issue** or **submit a pull request**!  
 
 ## ⭐ Let's Connect  
-- **LinkedIn:** [Your LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ankur-sharma-3a6037226/))  
-- **LeetCode Profile:** [Your LeetCode]([https://leetcode.com/your-profile](https://leetcode.com/u/_ankur01_/))  
+- **LinkedIn:** ([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ankur-sharma-3a6037226/))  
+- **LeetCode Profile:** ([https://leetcode.com/your-profile](https://leetcode.com/u/_ankur01_/))  
 
 If you find this helpful, consider giving this repo a ⭐!
 
