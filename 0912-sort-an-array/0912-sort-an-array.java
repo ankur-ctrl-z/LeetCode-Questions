@@ -1,40 +1,43 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        mergeSort(nums, 0, nums.length - 1);
+        quickSort(nums, 0, nums.length - 1);
         return nums;
     }
 
-    private void mergeSort(int[] nums, int low, int high) {
+    private void quickSort(int[] arr, int low, int high) {
         if (low < high) {
-            int mid = low + (high - low) / 2;
-            mergeSort(nums, low, mid);
-            mergeSort(nums, mid + 1, high);
-            merge(nums, low, mid, high);
+            int pivotIndex = partition(arr, low, high);
+            quickSort(arr, low, pivotIndex - 1);
+            quickSort(arr, pivotIndex + 1, high);
         }
     }
 
-    private void merge(int[] nums, int low, int mid, int high) {
-        int n1 = mid - low + 1;
-        int n2 = high - mid;
+private int partition(int[] arr, int low, int high) {
+    // Pick random pivot and swap with high
+    int randomIndex = low + (int)(Math.random() * (high - low + 1));
+    swap(arr, randomIndex, high);
 
-        int[] left = new int[n1];
-        int[] right = new int[n2];
+    int pivot = arr[high];
+    int i = low - 1;
 
-        for (int i = 0; i < n1; i++) left[i] = nums[low + i];
-        for (int j = 0; j < n2; j++) right[j] = nums[mid + 1 + j];
-
-        int i = 0, j = 0, k = low;
-        while (i < n1 && j < n2) {
-            if (left[i] <= right[j]) {
-                nums[k++] = left[i++];
-            } else {
-                nums[k++] = right[j++];
-            }
+    for (int j = low; j < high; j++) {
+        if (arr[j] < pivot) {
+            i++;
+            swap(arr, i, j);
         }
+    }
 
-        while (i < n1) nums[k++] = left[i++];
-        while (j < n2) nums[k++] = right[j++];
+    swap(arr, i + 1, high);
+    return i + 1;
+}
+
+
+    private void swap(int[] arr, int i, int j) {
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
     }
 }
+
 
     
