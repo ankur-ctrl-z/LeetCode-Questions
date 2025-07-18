@@ -1,4 +1,4 @@
-class Solution {
+class Solution { 
     public boolean search(int[] arr, int target) {
         int low = 0;
         int high = arr.length-1;
