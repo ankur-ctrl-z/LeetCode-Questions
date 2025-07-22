@@ -5,25 +5,26 @@ class NumMatrix {
         int m = matrix.length;
         int n = matrix[0].length;
 
-        prefixSum = new int[m + 1][n + 1];  
+        prefixSum = new int[m][n];
 
-        for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
-                prefixSum[i][j] = matrix[i - 1][j - 1]
-                                + prefixSum[i - 1][j]
-                                + prefixSum[i][j - 1]
-                                - prefixSum[i - 1][j - 1];
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                int top = (i > 0) ? prefixSum[i-1][j] : 0;
+                int left = (j > 0) ? prefixSum[i][j-1] : 0;
+                int overlap = (i > 0 && j > 0) ? prefixSum[i-1][j-1] : 0;
+
+                prefixSum[i][j] = matrix[i][j] + top + left - overlap;
             }
         }
     }
 
     public int sumRegion(int row1, int col1, int row2, int col2) {
-        int r1 = row1 + 1, c1 = col1 + 1, r2 = row2 + 1, c2 = col2 + 1;
+        int total = prefixSum[row2][col2];
+        int extraTop = (row1 > 0) ? prefixSum[row1 - 1][col2] : 0;
+        int extraLeft = (col1 > 0) ? prefixSum[row2][col1 - 1] : 0;
+        int extraOverlap = (row1 > 0 && col1 > 0) ? prefixSum[row1 - 1][col1 - 1] : 0;
 
-        return prefixSum[r2][c2]
-             - prefixSum[r1 - 1][c2]
-             - prefixSum[r2][c1 - 1]
-             + prefixSum[r1 - 1][c1 - 1];
+        return total - extraTop - extraLeft + extraOverlap;
     }
 }
 
