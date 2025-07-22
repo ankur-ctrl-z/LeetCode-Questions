@@ -90,32 +90,3 @@ Feel free to:
 ## ⭐ Support
 
 If you find this repository helpful, please consider giving it a **star** ⭐.  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0823-split-array-with-same-average](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0823-split-array-with-same-average) |
-## Binary Search
-|  |
-| ------- |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-## Math
-|  |
-| ------- |
-| [0823-split-array-with-same-average](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0823-split-array-with-same-average) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0823-split-array-with-same-average](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0823-split-array-with-same-average) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0823-split-array-with-same-average](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0823-split-array-with-same-average) |
-## Bitmask
-|  |
-| ------- |
-| [0823-split-array-with-same-average](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0823-split-array-with-same-average) |
-<!---LeetCode Topics End-->
