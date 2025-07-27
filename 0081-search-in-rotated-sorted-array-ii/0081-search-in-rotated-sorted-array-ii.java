@@ -6,7 +6,7 @@ class Solution {
         int mid = (low + high) / 2;
 
         if (arr[mid] == target) return true;
- 
+  
         if (arr[low] == arr[mid] && arr[mid] == arr[high]) {
             low++;
             high--;
