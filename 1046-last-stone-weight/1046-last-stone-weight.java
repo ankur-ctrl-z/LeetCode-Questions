@@ -20,4 +20,3 @@ class Solution {
         return pq.isEmpty() ? 0 : pq.poll();  
     }
 }
-
