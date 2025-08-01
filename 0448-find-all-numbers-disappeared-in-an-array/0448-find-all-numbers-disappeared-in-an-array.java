@@ -3,7 +3,8 @@ class Solution {
         List<Integer> answer = new ArrayList<>();
         int[] numbers = new int[nums.length + 1];
         for (int num : nums) {
-            numbers[num]++;
+            numbers[num] = num;
+            num++;
         }
         for (int i = 1; i < numbers.length; i++) {
             if (numbers[i] == 0) {
