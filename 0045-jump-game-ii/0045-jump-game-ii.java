@@ -1,4 +1,4 @@
-class Solution {   
+class Solution {    
     public int jump(int[] nums) {
         int maxReach = 0;
         int steps = 0;
