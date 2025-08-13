@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/3sum-closest">16. 3Sum Closest</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code> of length <code>n</code> and an integer <code>target</code>, find three integers in <code>nums</code> such that the sum is closest to <code>target</code>.</p>
+<h2><a href="https://leetcode.com/problems/3sum-closest/">16. 3Sum Closest</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code> of length <code>n</code> and an integer <code>target</code>, find three integers in <code>nums</code> such that the sum is closest to <code>target</code>.</p>
 
 <p>Return <em>the sum of the three integers</em>.</p>
 
