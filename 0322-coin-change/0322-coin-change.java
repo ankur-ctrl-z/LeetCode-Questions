@@ -1,19 +1,17 @@
 class Solution {
     public int coinChange(int[] arr, int amount) {
-        int count = 0;
-        if(amount == 0){
-            return 0;
-        }
-        Arrays.sort(arr);
-        for(int i = arr.length-1; i >= 0; i--){
-            while(arr[i] <= amount && amount >= 0){
-               amount -= arr[i];
-               count++;
+        int[] dp = new int[amount + 1];
+        Arrays.fill(dp, amount + 1); 
+        dp[0] = 0; 
+
+        for (int i = 1; i <= amount; i++) {
+            for (int val : arr) {
+                if (val <= i) {
+                    dp[i] = Math.min(dp[i], dp[i - val] + 1);
+                }
             }
         }
-        if(amount != 0){
-            return -1;
-        }
-        return count;
+
+        return dp[amount] > amount ? -1 : dp[amount];
     }
 }
