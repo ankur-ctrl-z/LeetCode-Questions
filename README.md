@@ -119,6 +119,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3830-find-closest-person](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3830-find-closest-person) |
 ## Geometry
 |  |
 | ------- |
