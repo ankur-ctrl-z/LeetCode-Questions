@@ -102,6 +102,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0290-word-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0290-word-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1894-merge-strings-alternately](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -151,8 +152,13 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
