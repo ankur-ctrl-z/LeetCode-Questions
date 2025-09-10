@@ -101,6 +101,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0290-word-pattern) |
+| [0402-remove-k-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0415-add-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -115,6 +116,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
@@ -174,6 +176,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2032-largest-odd-number-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
@@ -200,4 +203,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
