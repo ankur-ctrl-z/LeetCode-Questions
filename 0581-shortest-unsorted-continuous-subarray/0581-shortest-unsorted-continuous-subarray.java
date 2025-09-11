@@ -1,23 +1,23 @@
 class Solution {
     public int findUnsortedSubarray(int[] arr) {
         int n = arr.length;
-        int start = -1, end = -2; 
-        int maxSoFar = arr[0], minSoFar = arr[n - 1];
+        int x = -1, y = -2; 
+        int max = arr[0], min = arr[n - 1];
 
         for (int i = 1; i < n; i++) {
-            maxSoFar = Math.max(maxSoFar, arr[i]);
-            if (arr[i] < maxSoFar) {
-                end = i;
+            max = Math.max(max, arr[i]);
+            if (arr[i] < max) {
+                y = i;
             }
         }
 
         for (int i = n - 2; i >= 0; i--) {
-            minSoFar = Math.min(minSoFar, arr[i]);
-            if (arr[i] > minSoFar) {
-                start = i;
+            min = Math.min(min, arr[i]);
+            if (arr[i] > min) {
+                x = i;
             }
         }
 
-        return end - start + 1;
+        return y - x + 1;
     }
 }
