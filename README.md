@@ -107,6 +107,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1894-merge-strings-alternately](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2887-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
