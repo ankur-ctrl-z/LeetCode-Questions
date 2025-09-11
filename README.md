@@ -125,6 +125,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2756-buy-two-chocolates](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2756-buy-two-chocolates) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
