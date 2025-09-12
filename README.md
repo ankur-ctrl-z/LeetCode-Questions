@@ -110,6 +110,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2032-largest-odd-number-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3462-vowels-game-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3830-find-closest-person) |
 ## Geometry
@@ -199,6 +201,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -217,4 +220,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0402-remove-k-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
