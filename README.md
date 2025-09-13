@@ -111,12 +111,14 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -179,6 +181,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
 | ------- |
