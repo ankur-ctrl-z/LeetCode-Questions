@@ -1,30 +1,35 @@
 class Solution {
-    public int maxFreqSum(String str) {
-HashMap<Character, Integer> map = new HashMap<>();
-        for (char ch : str.toCharArray()) {
-            if (Character.isLetter(ch)) { 
-                map.put(ch, map.getOrDefault(ch, 0) + 1);
-            }
-        }
+	public static int maxFreqSum(String s) {
 
-        Set<Character> vowels = new HashSet<>(Arrays.asList('a','e','i','o','u'));
+		int n =  s.length();
+		HashMap<Character, Integer>  hm1 = new HashMap<Character, Integer>();
+		HashMap<Character, Integer>  hm2 = new HashMap<Character, Integer>();
 
-        int maxVowel = 0;
-        int maxConsonant = 0;
-
-        for (Map.Entry<Character, Integer> entry : map.entrySet()) {
-            char ch = entry.getKey();
-            int freq = entry.getValue();
-
-            if (vowels.contains(ch)) {
-                maxVowel = Math.max(maxVowel, freq);
-            } else {
-                maxConsonant = Math.max(maxConsonant, freq);
-            }
-        }
-
-        int result = maxVowel + maxConsonant;
-
-        return result;
-    }
+		for (int i = 0; i < n; i++) {
+			
+			char ch =  s.charAt(i);
+			
+            if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
+				
+            	hm1.put(ch, hm1.getOrDefault(ch, 0)+1);
+      
+			}else {
+            	hm2.put(ch, hm2.getOrDefault(ch, 0)+1);
+			}
+			
+		}
+		
+		int count1 = 0;
+		for(int c : hm1.values()) {
+			count1 = Math.max(c, count1);
+		}
+		
+		int count2 = 0;
+		for(int c : hm2.values()) {
+			count2 = Math.max(c, count2);
+		}
+		
+		
+		return count1 +  count2;
+	}
 }
