@@ -106,6 +106,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0415-add-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0415-add-strings) |
 | [1006-vowel-spellchecker](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1894-merge-strings-alternately](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
@@ -119,6 +120,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0290-word-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1006-vowel-spellchecker](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
