@@ -239,4 +239,20 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
