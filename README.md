@@ -129,6 +129,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0402-remove-k-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Array
 |  |
 | ------- |
@@ -138,6 +139,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2756-buy-two-chocolates](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2756-buy-two-chocolates) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -148,6 +150,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -232,4 +235,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
