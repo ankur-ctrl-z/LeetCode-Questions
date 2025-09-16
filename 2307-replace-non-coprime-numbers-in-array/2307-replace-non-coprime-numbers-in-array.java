@@ -7,10 +7,9 @@ class Solution {
         int i = 0;
         int j = 1;
         while(j < ll.size()){
-            if(gcd(ll.get(i),ll.get(j)) > 1) { // Changed condition to use gcd
+            if(gcd(ll.get(i),ll.get(j)) > 1) { 
                 ll.set(i,lcm(ll.get(i),ll.get(j)));
                 ll.remove(j);
-                // Key fix: after merging, check with previous element
                 if(i > 0) {
                     i--;
                     j--;
@@ -33,6 +32,6 @@ class Solution {
     }
     
     public static int lcm(int a, int b) {
-        return (a / gcd(a, b)) * b;  // Divide
+        return (a / gcd(a, b)) * b;  
     }
 }
