@@ -2,7 +2,7 @@ class Solution {
     public int numRescueBoats(int[] arr, int limit) {
         Arrays.sort(arr);
         int i = 0, j = arr.length - 1;
-        int boats = 0;
+        int total = 0;
 
         while (i <= j) {
             if (arr[i] + arr[j] <= limit) {
@@ -10,9 +10,9 @@ class Solution {
             } else {
                 j--;     
             }
-            boats++;
+            total++;
         }
-        return boats;
+        return total;
     }
 }
 
