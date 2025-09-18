@@ -127,6 +127,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1834-minimum-number-of-people-to-teach](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -193,6 +194,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [2429-design-a-food-rating-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3678-design-task-manager) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -274,10 +276,12 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
 | ------- |
