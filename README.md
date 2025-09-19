@@ -119,6 +119,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2887-sort-vowels-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
@@ -131,6 +132,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2428-equal-row-and-column-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -159,6 +161,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2756-buy-two-chocolates](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2756-buy-two-chocolates) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3797-design-spreadsheet](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
@@ -286,6 +289,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
@@ -295,6 +299,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2428-equal-row-and-column-pairs) |
+| [3797-design-spreadsheet](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
 ## Linked List
 |  |
 | ------- |
