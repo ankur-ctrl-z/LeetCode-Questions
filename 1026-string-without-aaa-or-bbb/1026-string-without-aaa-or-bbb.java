@@ -26,7 +26,7 @@ class Solution {
                     a--;
                 }
             } else {
-                st.append("ab");
+                st.append("ba");
                 a--;
                 b--;
             }
