@@ -133,6 +133,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2429-design-a-food-rating-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -162,6 +163,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -255,6 +257,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3827-implement-router) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -290,11 +293,13 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2429-design-a-food-rating-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -304,4 +309,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
