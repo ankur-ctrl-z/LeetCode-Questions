@@ -1,58 +1,115 @@
-import java.util.*;
-
 class Router {
-    private int memoryLimit;
-    private Queue<int[]> queue;
-    private Set<String> packetSet;
-    private Map<Integer, TreeMap<Integer, Integer>> destTimeCount;
+    private class Packet {
+        int source, destination, timestamp;
+
+        Packet(int source, int destination, int timestamp) {
+            this.source = source;
+            this.destination = destination;
+            this.timestamp = timestamp;
+        }
+    }
+
+
+    private int memoryLimit = 0;
+    private ArrayList<Packet> packets = new ArrayList<>();
+    private Set<String> set = new HashSet<>();
+    private Map<Integer, List<Integer>> map = new HashMap<>();
 
     public Router(int memoryLimit) {
         this.memoryLimit = memoryLimit;
-        this.queue = new LinkedList<>();
-        this.packetSet = new HashSet<>();
-        this.destTimeCount = new HashMap<>();
     }
 
+    private String getKey(int source, int destination, int timestamp) {
+        return source + "_" + destination + "_" + timestamp;
+    }
+
+    // 1, 12, 4 -> 1124 -> 1_12_4
+    // 11, 2, 4 -> 1124 -> 11_2_4
     public boolean addPacket(int source, int destination, int timestamp) {
-        String key = source + "#" + destination + "#" + timestamp;
-        if (packetSet.contains(key)) return false;
-        if (queue.size() == memoryLimit) {
-            int[] removed = queue.poll();
-            String removedKey = removed[0] + "#" + removed[1] + "#" + removed[2];
-            packetSet.remove(removedKey);
-            TreeMap<Integer, Integer> timeMap = destTimeCount.get(removed[1]);
-            timeMap.put(removed[2], timeMap.get(removed[2]) - 1);
-            if (timeMap.get(removed[2]) == 0) timeMap.remove(removed[2]);
+        String value = getKey(source, destination, timestamp);
+
+        if (set.contains(value)) {
+            return false;
         }
-        queue.offer(new int[]{source, destination, timestamp});
-        packetSet.add(key);
-        destTimeCount.putIfAbsent(destination, new TreeMap<>());
-        TreeMap<Integer, Integer> timeMap = destTimeCount.get(destination);
-        timeMap.put(timestamp, timeMap.getOrDefault(timestamp, 0) + 1);
+
+        if (packets.size() == memoryLimit) {
+            Packet packet = packets.remove(0);
+            String key = getKey(packet.source, packet.destination, packet.timestamp);
+            set.remove(key);
+
+            List<Integer> timestamps = map.getOrDefault(packet.destination, new ArrayList<>());
+            if (!timestamps.isEmpty()) {
+                timestamps.remove(0);
+                map.put(packet.destination, timestamps);
+            }
+        }
+
+        set.add(value);
+        packets.add(new Packet(source, destination, timestamp));
+        map.computeIfAbsent(destination, k -> new ArrayList<>()).add(timestamp);
         return true;
     }
 
     public int[] forwardPacket() {
-        if (queue.isEmpty()) return new int[0];
-        int[] packet = queue.poll();
-        String key = packet[0] + "#" + packet[1] + "#" + packet[2];
-        packetSet.remove(key);
-        TreeMap<Integer, Integer> timeMap = destTimeCount.get(packet[1]);
-        timeMap.put(packet[2], timeMap.get(packet[2]) - 1);
-        if (timeMap.get(packet[2]) == 0) timeMap.remove(packet[2]);
-        return packet;
+        if (packets.size() == 0) {
+            return new int[0];
+        }
+
+        Packet packet = packets.remove(0);
+        String key = getKey(packet.source, packet.destination, packet.timestamp);
+        set.remove(key);
+
+        List<Integer> timestamps = map.getOrDefault(packet.destination, new ArrayList<>());
+        if (!timestamps.isEmpty()) {
+            timestamps.remove(0);
+            map.put(packet.destination, timestamps);
+        }
+
+        return new int[] {packet.source, packet.destination, packet.timestamp};
     }
 
     public int getCount(int destination, int startTime, int endTime) {
-        if (!destTimeCount.containsKey(destination)) return 0;
-        TreeMap<Integer, Integer> timeMap = destTimeCount.get(destination);
-        int count = 0;
-        for (Map.Entry<Integer, Integer> entry : timeMap.subMap(startTime, true, endTime, true).entrySet()) {
-            count += entry.getValue();
+        List<Integer> arr = map.getOrDefault(destination, new ArrayList<>());
+        int upper = upperBound(arr, endTime);
+        int lower = lowerBound(arr, startTime);
+
+        return upper - lower;
+    }
+
+    private int lowerBound(List<Integer> arr, int target) {
+        int low = 0, high = arr.size();
+
+        while (low < high) {
+            int mid = (low + high) / 2;
+
+            if (arr.get(mid) < target) {
+                low = mid + 1;
+            } else {
+                high = mid;
+            }
         }
-        return count;
+
+        return low;
+    }
+
+    private int upperBound(List<Integer> arr, int target) {
+        int low = 0, high = arr.size();
+
+        while (low < high) {
+            int mid = (low + high) / 2;
+
+            if (arr.get(mid) <= target) {
+                low = mid + 1;
+            } else {
+                high = mid;
+            }
+        }
+
+        return low;
     }
 }
+
+
 
 
 /**
