@@ -168,6 +168,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0415-add-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -253,6 +254,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Queue
@@ -315,4 +317,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3827-implement-router) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
