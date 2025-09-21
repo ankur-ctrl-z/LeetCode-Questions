@@ -147,6 +147,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0917-boats-to-save-people](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0917-boats-to-save-people) |
@@ -252,6 +253,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Queue
 |  |
