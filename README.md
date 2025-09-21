@@ -149,6 +149,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0747-min-cost-climbing-stairs) |
@@ -260,6 +261,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Queue
@@ -323,6 +325,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [3827-implement-router](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3827-implement-router) |
 ## Memoization
 |  |
