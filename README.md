@@ -132,6 +132,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2023-design-movie-rental-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3827-implement-router) |
@@ -165,6 +166,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2428-equal-row-and-column-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2756-buy-two-chocolates](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2756-buy-two-chocolates) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
@@ -222,6 +224,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
