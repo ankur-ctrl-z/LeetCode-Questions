@@ -96,6 +96,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0917-boats-to-save-people](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
@@ -103,6 +104,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
 | [0290-word-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0415-add-strings) |
