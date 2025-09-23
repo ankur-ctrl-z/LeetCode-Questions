@@ -15,9 +15,10 @@ class Solution {
             }
         }
         if (temp.length() > 0) parts1.add(Integer.parseInt(temp.toString()));
-        while (!parts1.isEmpty() && parts1.get(parts1.size() - 1) == 0) {
-            parts1.remove(parts1.size() - 1);
-        }
+
+        // while (!parts1.isEmpty() && parts1.get(parts1.size() - 1) == 0) {
+        //     parts1.remove(parts1.size() - 1);
+        // }
 
         temp.setLength(0);
 
@@ -31,9 +32,9 @@ class Solution {
             }
         }
         if (temp.length() > 0) parts2.add(Integer.parseInt(temp.toString()));
-        while (!parts2.isEmpty() && parts2.get(parts2.size() - 1) == 0) {
-            parts2.remove(parts2.size() - 1);
-        }
+        // while (!parts2.isEmpty() && parts2.get(parts2.size() - 1) == 0) {
+        //     parts2.remove(parts2.size() - 1);
+        // }
 
         int n = Math.max(parts1.size(), parts2.size());
         for (int i = 0; i < n; i++) {
