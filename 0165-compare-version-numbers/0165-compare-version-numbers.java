@@ -45,7 +45,8 @@ class Solution {
             } else {
                 l2 = 0;
             }
-
+            
+            if(l1 == l2) continue;
             if (l1 < l2) return -1;
             if (l1 > l2) return 1;
         }
