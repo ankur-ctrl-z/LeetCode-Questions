@@ -16,10 +16,6 @@ class Solution {
         }
         if (temp.length() > 0) parts1.add(Integer.parseInt(temp.toString()));
 
-        // while (!parts1.isEmpty() && parts1.get(parts1.size() - 1) == 0) {
-        //     parts1.remove(parts1.size() - 1);
-        // }
-
         temp.setLength(0);
 
         for (int i = 0; i < version2.length(); i++) {
@@ -32,17 +28,26 @@ class Solution {
             }
         }
         if (temp.length() > 0) parts2.add(Integer.parseInt(temp.toString()));
-        // while (!parts2.isEmpty() && parts2.get(parts2.size() - 1) == 0) {
-        //     parts2.remove(parts2.size() - 1);
-        // }
 
         int n = Math.max(parts1.size(), parts2.size());
-        for (int i = 0; i < n; i++) {
-            int v1 = i < parts1.size() ? parts1.get(i) : 0;
-            int v2 = i < parts2.size() ? parts2.get(i) : 0;
 
-            if (v1 < v2) return -1;
-            if (v1 > v2) return 1;
+        for (int i = 0; i < n; i++) {
+            int l1 = 0;
+            int l2 = 0;
+            if(i < parts1.size()){
+                l1 = parts1.get(i);
+            } else {
+                l1 = 0;
+            }
+
+            if(i < parts2.size()){
+                l2 = parts2.get(i);
+            } else {
+                l2 = 0;
+            }
+
+            if (l1 < l2) return -1;
+            if (l1 > l2) return 1;
         }
 
         return 0;
