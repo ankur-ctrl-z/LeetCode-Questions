@@ -1,19 +1,15 @@
 class Solution {
     public int triangleNumber(int[] arr) {
         int count = 0;
-        Arrays.sort(arr);
         int n = arr.length;
 
-        for (int c = n - 1; c >= 2; c--) {
-            int left = 0;
-            int right = c - 1;
-
-            while (left < right) {
-                if (arr[left] + arr[right] > arr[c]) {
-                    count += (right - left);
-                    right--;
-                } else {
-                    left++;
+        for (int i = 0; i < n - 2; i++) {
+            for (int j = i + 1; j < n - 1; j++) {
+                for (int k = j + 1; k < n; k++) {
+                    int a = arr[i], b = arr[j], c = arr[k];
+                    if (a + b > c && a + c > b && b + c > a) {
+                        count++;
+                    }
                 }
             }
         }
