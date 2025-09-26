@@ -4,7 +4,7 @@ class Solution {
 
         StringBuilder sb = new StringBuilder();
 
-        if ((numerator < 0) ^ (denominator < 0)) sb.append("-");
+        // if ((numerator < 0) ^ (denominator < 0)) sb.append("-");
 
         long num = Math.abs((long) numerator);
         long den = Math.abs((long) denominator);
