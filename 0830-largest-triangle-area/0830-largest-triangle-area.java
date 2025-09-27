@@ -5,15 +5,13 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
-                for (int k = j + 1; k < n; k++) {   // <-- missing loop was here
-                    // calculate lengths of sides
+                for (int k = j + 1; k < n; k++) {   
                     double a = distance(points[i], points[j]);
                     double b = distance(points[j], points[k]);
                     double c = distance(points[k], points[i]);
 
                     double s = (a + b + c) / 2.0;
 
-                    // check if valid triangle
                     if (s > a && s > b && s > c) {
                         double area = Math.sqrt(s * (s - a) * (s - b) * (s - c));
                         maxArea = Math.max(maxArea, area);
