@@ -164,6 +164,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0747-min-cost-climbing-stairs) |
+| [0830-largest-triangle-area](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
 | [0917-boats-to-save-people](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
@@ -187,6 +188,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0070-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0415-add-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0415-add-strings) |
+| [0830-largest-triangle-area](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -199,6 +201,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Sorting
 |  |
