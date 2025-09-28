@@ -5,17 +5,9 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
-                for (int k = j + 1; k < n; k++) {   
-                    double a = distance(points[i], points[j]);
-                    double b = distance(points[j], points[k]);
-                    double c = distance(points[k], points[i]);
-
-                    double s = (a + b + c) / 2.0;
-
-                    if (s > a && s > b && s > c) {
-                        double area = Math.sqrt(s * (s - a) * (s - b) * (s - c));
-                        maxArea = Math.max(maxArea, area);
-                    }
+                for (int k = j + 1; k < n; k++) {
+                    double area = shoelace(points[i], points[j], points[k]);
+                    maxArea = Math.max(maxArea, area);
                 }
             }
         }
@@ -23,7 +15,11 @@ class Solution {
         return maxArea;
     }
 
-    private double distance(int[] p1, int[] p2) {
-        return Math.sqrt(Math.pow(p1[0] - p2[0], 2) + Math.pow(p1[1] - p2[1], 2));
+    private double shoelace(int[] p1, int[] p2, int[] p3) {
+        return 0.5 * Math.abs(
+            p1[0]*(p2[1]-p3[1]) +
+            p2[0]*(p3[1]-p1[1]) +
+            p3[0]*(p1[1]-p2[1])
+        );
     }
 }
