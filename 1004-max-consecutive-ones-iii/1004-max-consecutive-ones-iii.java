@@ -1,22 +1,22 @@
 class Solution {
-    public int longestOnes(int[] nums, int k) {
-        int left = 0;
+    public int longestOnes(int[] arr, int k) {
+        int i = 0;
         int maxLen = 0;
-        int zeros = 0;
+        int zero = 0;
 
-        for (int right = 0; right < nums.length; right++) {
-            if (nums[right] == 0) {
-                zeros++;
+        for (int j = 0; j < arr.length; j++) {
+            if (arr[j] == 0) {
+                zero++;
             }
 
-            while (zeros > k) {
-                if (nums[left] == 0) {
-                    zeros--;
+            while (zero > k) {
+                if (arr[i] == 0) {
+                    zero--;
                 }
-                left++;
+                i++;
             }
 
-            maxLen = Math.max(maxLen, right - left + 1);
+            maxLen = Math.max(maxLen, j - i + 1);
         }
 
         return maxLen;
