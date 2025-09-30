@@ -5,7 +5,7 @@ class Solution {
             ll.add(num);
         }
 
-        while (ll.size() > 1) {
+        while (ll.size() != 1) {
             for (int i = 0; i < ll.size() - 1; i++) {
                 int value = (ll.get(i) + ll.get(i + 1)) % 10;
                 ll.set(i, value); 
@@ -16,3 +16,4 @@ class Solution {
         return ll.get(0);
     }
 }
+
