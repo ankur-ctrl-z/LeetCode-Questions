@@ -176,6 +176,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2023-design-movie-rental-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2756-buy-two-chocolates](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2756-buy-two-chocolates) |
@@ -197,6 +198,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -277,6 +279,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0415-add-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0415-add-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [3447-clear-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3447-clear-digits) |
@@ -358,4 +361,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
