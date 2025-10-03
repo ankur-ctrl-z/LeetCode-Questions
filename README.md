@@ -201,6 +201,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3336-water-bottles-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3830-find-closest-person) |
@@ -284,6 +285,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2324-find-triangular-sum-of-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2428-equal-row-and-column-pairs) |
+| [3336-water-bottles-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
