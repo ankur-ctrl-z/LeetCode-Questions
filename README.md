@@ -96,6 +96,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
@@ -157,6 +158,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0120-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
@@ -256,6 +258,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
