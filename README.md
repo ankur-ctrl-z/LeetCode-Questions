@@ -322,6 +322,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
+| [0904-leaf-similar-trees](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -372,4 +373,12 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
+## Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
