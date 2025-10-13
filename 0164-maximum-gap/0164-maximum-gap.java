@@ -8,14 +8,11 @@ class Solution {
         int a = 0;
         int b = 1;
         while(b < nums.length){
-            if(nums[b] >= nums[a] && nums[b] - nums[a] > diff){
+            if(nums[b] - nums[a] > diff){
                 diff = nums[b] - nums[a];
-                a++;
-                b++;
-            }else {
-                a++;
-                b++;
             }
+            a++;
+            b++;
         }
         return diff;
     }
