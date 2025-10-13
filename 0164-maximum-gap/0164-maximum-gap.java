@@ -1,19 +1,19 @@
 class Solution {
     public int maximumGap(int[] nums) {
-        if(nums.length < 2) return 0;
-        int max = 0;
-      PriorityQueue<Integer> pq = new PriorityQueue<>();
-      for(int num: nums){
-        pq.offer(num);
-      }
-      while(pq.size() >= 2){
-        int first = pq.poll();
-        int second = pq.peek();
-
-        if(second - first > max){
-            max = second - first;
+        if(nums.length == 1 || nums.length == 0){
+            return 0;
         }
-      }
-      return max;
+        Arrays.sort(nums);
+        int diff = 0;
+        int a = 0;
+        int b = 1;
+        while(b < nums.length){
+            if(nums[b] - nums[a] > diff){
+                diff = nums[b] - nums[a];
+            }
+            a++;
+            b++;
+        }
+        return diff;
     }
 }
