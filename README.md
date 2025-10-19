@@ -195,6 +195,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0258-add-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0415-add-strings) |
 | [0830-largest-triangle-area](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1018-largest-perimeter-triangle) |
@@ -287,6 +288,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -322,6 +324,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0258-add-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Depth-First Search
 |  |
