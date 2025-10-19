@@ -1,14 +1,29 @@
 class Solution {
     public int addDigits(int num) {
-    String s = Integer.toString(num);
-    int result = 0;
-    while(s.length() != 1){
-       for(int i = 0; i < s.length(); i++){
-          result += s.charAt(i) - '0';
-       }
-       s = Integer.toString(result);
-       result = 0;
-    }
-    return Integer.parseInt(s);
+        int result = 0;
+        while(num > 9){
+            while(num > 0){
+            result += num % 10;
+            num /= 10;
+            }
+            num = result;
+            result = 0;
+        }
+        return num;
     }
 }
+// class Solution {
+//     public int addDigits(int num) {
+//         int sum=0;
+//         while(num>=10){
+//             sum=0;
+//             while(num>0){
+//                 int temp=num%10;
+//                 sum+=temp;
+//                 num/=10;
+//             }
+//             num=sum;
+//         }
+//         return num;
+//     }
+// }
