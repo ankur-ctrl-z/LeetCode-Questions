@@ -1,29 +1,24 @@
 class Solution {
     public int nextBeautifulNumber(int n) {
-        if(n == 1) return 22;
-        n = n+1;
-       boolean check = false;
-       while(check == false){
-       HashMap<Integer, Integer> map = new HashMap<>(); 
-       String s = Integer.toString(n);
-       for(int i = 0; i < s.length(); i++){
-        char ch = s.charAt(i);
-        int num = Character.getNumericValue(ch);
-        map.put(num,map.getOrDefault(num,0)+1);
-       }
-         if(ischeck(map) == true){
-            return n;
-         }
-         n = n+1;
-       }
-       return n;
+        for (int i = n + 1; i <= 1224444; i++) {
+            if (isBalance(i)) {
+                return i;
+            }
+        }
+        return -1;
     }
-    public static boolean ischeck(HashMap<Integer,Integer> map){
-        for(Map.Entry<Integer,Integer> entry : map.entrySet()){
-         if(entry.getKey() != entry.getValue()){
-            return false;
-         }
-       }
+
+    private boolean isBalance(int x) {
+        int[] count = new int[10];
+        while (x > 0) {
+            count[x % 10]++;
+            x /= 10;
+        }
+        for (int d = 0; d < 10; ++d) {
+            if (count[d] > 0 && count[d] != d) {
+                return false;
+            }
+        }
         return true;
     }
 }
