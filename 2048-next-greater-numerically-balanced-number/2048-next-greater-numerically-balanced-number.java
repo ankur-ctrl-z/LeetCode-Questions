@@ -1,29 +1,31 @@
 class Solution {
     public int nextBeautifulNumber(int n) {
-        if(n == 1) return 22;
-        n = n+1;
-       boolean check = false;
-       while(check == false){
-       HashMap<Integer, Integer> map = new HashMap<>(); 
-       String s = Integer.toString(n);
-       for(int i = 0; i < s.length(); i++){
-        char ch = s.charAt(i);
-        int num = Character.getNumericValue(ch);
-        map.put(num,map.getOrDefault(num,0)+1);
-       }
-         if(ischeck(map) == true){
-            return n;
-         }
-         n = n+1;
-       }
-       return n;
-    }
-    public static boolean ischeck(HashMap<Integer,Integer> map){
-        for(Map.Entry<Integer,Integer> entry : map.entrySet()){
-         if(entry.getKey() != entry.getValue()){
-            return false;
-         }
-       }
-        return true;
+        int result = n + 1;
+        boolean isBalanced = true;
+
+        while(true) {
+            String numAsString = Integer.toString(result);
+            int[] balanceArr = new int[10];
+            for (char digit : numAsString.toCharArray()) {
+                balanceArr[Character.getNumericValue(digit)]++;
+            }
+
+            isBalanced = true;
+
+            for (int i = 0; i < 10; i++) {
+                if (balanceArr[i] != i && balanceArr[i] != 0) {
+                    isBalanced = false;
+                    result++;
+                    break;
+                }
+            }
+
+            if (isBalanced) {
+                return result;
+            }
+            
+        }
+
+        // return -1;
     }
 }
