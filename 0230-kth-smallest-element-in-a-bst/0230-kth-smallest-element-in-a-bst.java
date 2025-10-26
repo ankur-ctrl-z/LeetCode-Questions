@@ -20,7 +20,7 @@ class Solution {
         return result;
     }
 
-    void inorder(TreeNode root, int k) {
+    public void inorder(TreeNode root, int k) {
         if (root == null) return;
         inorder(root.left, k);
         count++;
