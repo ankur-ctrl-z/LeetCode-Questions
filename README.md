@@ -331,6 +331,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0801-is-graph-bipartite](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [0904-leaf-similar-trees](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
@@ -386,13 +387,19 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0164-maximum-gap) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
