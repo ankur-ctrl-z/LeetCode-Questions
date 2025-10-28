@@ -14,19 +14,21 @@
  * }
  */
 class Solution {
-    int count = 0; int result = 0;
     public int kthSmallest(TreeNode root, int k) {
-        check(root,k);
-        return result;
+        if(root == null) return 0;
+        if(root.left == null && root.right == null) return root.val;
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        solve(root,pq);
+while (--k > 0) {
+    pq.poll();
+}
+return pq.poll();
+
     }
-    public void check(TreeNode root, int k){
-        if(root == null) return;
-        check(root.left,k);
-        count++;
-        if(count == k){
-            result = root.val;
-            return;
-        }
-        check(root.right,k);
+    public static void solve(TreeNode root,PriorityQueue<Integer>pq){
+       if (root == null) return;
+        pq.add(root.val);
+        solve(root.left, pq);
+        solve(root.right, pq);
     }
 }
