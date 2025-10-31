@@ -1,15 +1,26 @@
 class Solution {
     public int singleNumber(int[] nums) {
-       Arrays.sort(nums);
-       int i = 0;
-       while(i < nums.length-2){
-        if(nums[i] != nums[i+1]){
-          return nums[i];
-        } else if(nums[i+1] != nums[i+2]) {
-            return nums[i+2];
+        HashMap<Integer, Integer> hashMap = new HashMap();
+        for(int i = 0;i< nums.length; i++) {
+            if(hashMap.containsKey(nums[i])) {
+                hashMap.put(nums[i], hashMap.get(nums[i])+1);
+            } else {
+                hashMap.put(nums[i], 1);
+            }
         }
-        i =i+3;
-       }
-       return nums[nums.length-1];
+
+        int number = 0;
+        // Get the Set of keys
+        Set<Integer> keys = hashMap.keySet();
+        Iterator<Integer> iterator = keys.iterator();
+
+        while (iterator.hasNext()) {
+            Integer key = iterator.next();
+            if(hashMap.get(key) != 3) {
+                number = key;
+                break;
+            }
+        }
+        return number;
     }
 }
