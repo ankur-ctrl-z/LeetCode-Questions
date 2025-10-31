@@ -163,6 +163,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0120-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0120-triangle) |
+| [0137-single-number-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
@@ -284,6 +285,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0137-single-number-ii) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Brainteaser
