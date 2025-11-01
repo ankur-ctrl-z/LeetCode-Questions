@@ -83,7 +83,7 @@ Feel free to:
 ## 📬 Connect With Me
 
 - 💼 **LinkedIn:** [Ankur Sharma](https://www.linkedin.com/in/ankur-sharma-3a6037226/)
-- 💻 **LeetCode:** [@_ankur01_](https://leetcode.com/u/_ankur01_/)
+- 💻 **LeetCode:** [@ankur_codes](https://leetcode.com/u/ankur_codes/)
 
 ---
 
