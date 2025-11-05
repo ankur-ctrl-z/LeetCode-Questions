@@ -1,18 +1,18 @@
 class Solution {
     public int climbStairs(int n) {
-        if (n <= 2) {
-            return n;
-        }
+        int[] dp = new int[n + 1];
+        return solve(n, 0, dp);
+    }
 
-        int first = 1;
-        int second = 2;
+    public static int solve(int n, int idx, int[] dp) {
+        if (idx == n) return 1;
+        if (idx > n) return 0;
 
-        for (int i = 3; i <= n; i++) {
-            int third = first + second;
-            first = second;
-            second = third;
-        }
+        if (dp[idx] != 0) return dp[idx];
 
-        return second;
+        int i = solve(n, idx + 1, dp);
+        int j = solve(n, idx + 2, dp);
+
+        return dp[idx] = i + j;
     }
 }
