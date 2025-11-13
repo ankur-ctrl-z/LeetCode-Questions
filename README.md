@@ -126,6 +126,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2887-sort-vowels-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3797-design-spreadsheet](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
@@ -265,6 +266,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
@@ -284,6 +286,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1834-minimum-number-of-people-to-teach](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2032-largest-odd-number-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2756-buy-two-chocolates](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2756-buy-two-chocolates) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Bit Manipulation
 |  |
 | ------- |
