@@ -7,13 +7,12 @@ class Solution {
         while(i < s.length()){
             if(s.charAt(i) == '1'){
                 onesCount++; 
-                i++;
             } else { 
                 if(i > 0 && s.charAt(i-1) == '1'){
                     count += onesCount;
                 }
-                i++;
             }
+            i++;
         }
         return count;
     }
