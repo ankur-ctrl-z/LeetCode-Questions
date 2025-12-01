@@ -7,8 +7,6 @@ class Solution {
          for(int j = 0; j < i; j++){
             if(arr[j] < arr[i]){
                ans[i] = Math.max(ans[i], ans[j] + 1);
-            } else {
-                continue;
             }
          }
          count = Math.max(count, ans[i]);
