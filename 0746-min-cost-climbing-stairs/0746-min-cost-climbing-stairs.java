@@ -18,3 +18,6 @@ class Solution {
         return dp[i] = Math.min(f,s) + arr[i];
     }
 }
+
+
+
