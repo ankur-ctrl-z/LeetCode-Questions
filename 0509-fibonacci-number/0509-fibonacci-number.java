@@ -1,8 +1,11 @@
 class Solution {
     public int fib(int n) {
-        if(n == 0 || n ==1){
-            return n;
+       return fibonacci(n);
+    }
+    public static int fibonacci(int n){
+        if(n == 1 || n == 0){
+          return n;
         }
-        return fib(n-1) + fib(n-2);
+        return fibonacci(n-1) + fibonacci(n-2);
     }
 }
