@@ -1,18 +1,23 @@
 class Solution {
     public int longestCommonSubsequence(String text1, String text2) {
-        int m = text1.length();
-        int n = text2.length();
-        int[][] dp = new int[m+1][n+1];
-
-        for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (text1.charAt(i-1) == text2.charAt(j-1)) {
-                    dp[i][j] = 1 + dp[i-1][j-1];
-                } else {
-                    dp[i][j] = Math.max(dp[i-1][j], dp[i][j-1]);
-                }
-            }
+        int dp[][] = new int[text1.length()+1][text2.length()+1];
+        for (int i = 1; i <= text1.length(); i++) {
+         for(int j = 1; j <= text2.length(); j++){
+            dp[i][j] = -1;
+         }
         }
-        return dp[m][n];
+        return longest(text1.length(),text2.length(),text1,text2,dp);
+    }
+    public static int longest(int n, int m,String s1, String s2,int dp[][]){
+        if(m == 0 || n == 0) return 0;
+        if(dp[n][m] != -1) return dp[n][m];
+        if(s1.charAt(n-1) == s2.charAt(m-1)){
+            return dp[n][m] = 1 + longest(n-1,m-1,s1,s2,dp);
+        } else {
+            int a = longest(n-1,m,s1,s2,dp);
+            int b = longest(n,m-1,s1,s2,dp);
+
+            return dp[n][m] = Math.max(a,b);
+        }
     }
 }
