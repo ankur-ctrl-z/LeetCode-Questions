@@ -1,17 +1,25 @@
 class Solution {
     public int coinChange(int[] arr, int amount) {
         int[] dp = new int[amount + 1];
-        Arrays.fill(dp, amount + 1); 
-        dp[0] = 0; 
+        Arrays.fill(dp, -1);
+        
+        int ans = mincoin(arr, amount, dp);
+        return ans >= 1000000000 ? -1 : ans;
+    }
 
-        for (int i = 1; i <= amount; i++) {
-            for (int val : arr) {
-                if (val <= i) {
-                    dp[i] = Math.min(dp[i], dp[i - val] + 1);
-                }
-            }
+    public static int mincoin(int[] arr, int amount, int[] dp) {
+        if (amount == 0) return 0;
+        if (amount < 0) return 1000000000;
+
+        if (dp[amount] != -1) return dp[amount];
+
+        int ans = 1000000000;
+
+        for (int coin : arr) {
+            int sub = mincoin(arr, amount - coin, dp);
+            ans = Math.min(ans, sub + 1);
         }
 
-        return dp[amount] > amount ? -1 : dp[amount];
+        return dp[amount] = ans;
     }
 }
