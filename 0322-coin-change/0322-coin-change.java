@@ -16,8 +16,8 @@ class Solution {
         int ans = 1000000000;
 
         for (int coin : arr) {
-            int sub = mincoin(arr, amount - coin, dp);
-            ans = Math.min(ans, sub + 1);
+            int sub = 1 + mincoin(arr, amount - coin, dp);
+            ans = Math.min(ans, sub);
         }
 
         return dp[amount] = ans;
