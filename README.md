@@ -114,6 +114,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0290-word-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0415-add-strings) |
+| [0516-longest-palindromic-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1006-vowel-spellchecker](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1026-string-without-aaa-or-bbb](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1026-string-without-aaa-or-bbb) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -329,6 +330,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
