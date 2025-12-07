@@ -1,4 +1,4 @@
-class Solution {
+class Solution { 
     public int maxArea(int[] arr) {
        int i = 0;
        int j = arr.length-1;
