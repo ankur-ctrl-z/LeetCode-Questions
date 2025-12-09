@@ -6,7 +6,7 @@ class Solution {
         int maxRepeat = 0;
 
         for (int i = m; i <= n; i++) {
-            if (sequence.substring(i - m, i).equals(word)) {
+            if (sequence.substring(i-m, i).equals(word)) {
                 dp[i] = dp[i - m] + 1;
                 maxRepeat = Math.max(maxRepeat, dp[i]);
             }
