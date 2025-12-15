@@ -1,11 +1,11 @@
 class Solution {
     public int fib(int n) {
-       return fibonacci(n);
+        return calculatefibo(n);
     }
-    public static int fibonacci(int n){
+    public static int calculatefibo(int n) {
         if(n == 1 || n == 0){
-          return n;
+            return n;
         }
-        return fibonacci(n-1) + fibonacci(n-2);
+        return calculatefibo(n-1) + calculatefibo(n-2);
     }
 }
