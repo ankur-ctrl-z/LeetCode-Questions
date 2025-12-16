@@ -1,28 +1,28 @@
 class Solution {
-    long[][] dp;
-
     public int numDistinct(String s, String t) {
-        dp = new long[s.length()][t.length()];
-        for (int i = 0; i < s.length(); i++) {
-            Arrays.fill(dp[i], -1);
-        }
-        return (int) count(s, t, 0, 0);
+        int n = s.length();
+        int m = t.length();
+        Integer[][] dp = new Integer[n + 1][m + 1]; 
+        return count(s, t, 0, 0, dp);
     }
 
-    private long count(String s, String t, int i, int j) {
+    private int count(String s, String t, int i, int j, Integer[][] dp) {
         if (j == t.length()) return 1;
+
         if (i == s.length()) return 0;
 
-        if (dp[i][j] != -1) return dp[i][j];
+        if (dp[i][j] != null) return dp[i][j];
 
-        long inc = 0, exc;
+        int ans = 0;
 
         if (s.charAt(i) == t.charAt(j)) {
-            inc = count(s, t, i + 1, j + 1);
+            ans += count(s, t, i + 1, j + 1, dp); 
         }
 
-        exc = count(s, t, i + 1, j);
+        ans += count(s, t, i + 1, j, dp);
 
-        return dp[i][j] = inc + exc;
+        dp[i][j] = ans;
+        return ans;
     }
 }
+
