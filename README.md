@@ -192,6 +192,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1006-vowel-spellchecker](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -441,4 +442,5 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0525-contiguous-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
