@@ -1,21 +1,21 @@
 class Solution {
     public int countSubstrings(String s) {
-        int n = s.length();
-        int count = 0;
+        int ans = 0;
+        for(int i=0;i<s.length();i++){
 
-        // Each character can be a center of palindrome (odd and even length)
-        for (int center = 0; center < 2 * n - 1; center++) {
-            int left = center / 2;
-            int right = left + center % 2;
-
-            // Expand while it's palindrome
-            while (left >= 0 && right < n && s.charAt(left) == s.charAt(right)) {
-                count++;
-                left--;
-                right++;
-            }
+            ans += checkPalindrome(s,i,i);
+            ans += checkPalindrome(s,i,i+1);
         }
+        return ans;
+    }
 
+    public int checkPalindrome(String s, int left , int right){
+        int count = 0;
+        while(left >= 0 && right < s.length() && s.charAt(left)==s.charAt(right)){
+            left--;
+            right++;
+            count++;
+        }
         return count;
     }
 }
