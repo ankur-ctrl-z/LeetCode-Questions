@@ -1,7 +1,7 @@
 class Solution { 
     public int maxArea(int[] arr) {
        int i = 0;
-       int j = arr.length-1;
+       int j = arr.length-1; 
        int water = Integer.MIN_VALUE;
        int max = Integer.MIN_VALUE;
        while(i < j){
