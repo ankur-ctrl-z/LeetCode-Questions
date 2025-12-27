@@ -102,6 +102,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1894-merge-strings-alternately) |
@@ -184,6 +185,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0525-contiguous-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
 | [0917-boats-to-save-people](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0917-boats-to-save-people) |
@@ -247,6 +249,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1018-largest-perimeter-triangle) |
@@ -266,6 +269,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 | [2023-design-movie-rental-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3678-design-task-manager) |
@@ -415,6 +419,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0300-longest-increasing-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 | [3827-implement-router](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3827-implement-router) |
 ## Memoization
 |  |
@@ -454,4 +459,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0523-continuous-subarray-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
