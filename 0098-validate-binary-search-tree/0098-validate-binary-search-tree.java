@@ -13,13 +13,11 @@
  *     }
  * }
  */
-import java.util.ArrayList;
-
 class Solution {
     private ArrayList<Integer> ll = new ArrayList<>();
-    
-    public boolean isValidBST(TreeNode root) {
-        ll.clear(); 
+
+    public boolean isValidBST(TreeNode root) {// inorder traversal of binary search tree gives a sorted array
+        // ll.clear(); 
         inorder(root);
 
         for (int i = 0; i < ll.size() - 1; i++) {
