@@ -4,7 +4,7 @@ class Solution {
         flattenTree(root);
     }
 
-    private TreeNode flattenTree(TreeNode root) {
+    public TreeNode flattenTree(TreeNode root) {
         if (root == null) {
             return null;
         }
