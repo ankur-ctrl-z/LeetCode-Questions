@@ -373,6 +373,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0543-diameter-of-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [0904-leaf-similar-trees](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
+| [0951-flip-equivalent-binary-trees](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -441,6 +442,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0513-find-bottom-left-tree-value](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
+| [0951-flip-equivalent-binary-trees](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -450,6 +452,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0513-find-bottom-left-tree-value](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
+| [0951-flip-equivalent-binary-trees](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 ## Radix Sort
 |  |
 | ------- |
