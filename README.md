@@ -173,6 +173,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0090-subsets-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0164-maximum-gap) |
@@ -309,6 +310,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0137-single-number-ii) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -474,4 +476,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
