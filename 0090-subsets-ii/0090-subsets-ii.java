@@ -1,5 +1,3 @@
-
-
 class Solution {
     private void f(int index, int[] nums, List<Integer> t, List<List<Integer>> ans) {
         ans.add(new ArrayList<>(t));
