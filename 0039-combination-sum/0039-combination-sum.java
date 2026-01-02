@@ -16,7 +16,7 @@ class Solution {
             if (amount >= coin[i]) {
                 ll.add(coin[i]);
                 combination(coin, amount - coin[i], ll, i, ans); 
-                ll.remove(ll.size() - 1); 
+                ll.remove(ll.size()-1); 
             }
         }
     }
