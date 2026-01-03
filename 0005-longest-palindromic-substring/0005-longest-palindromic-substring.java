@@ -3,8 +3,7 @@ public String longestPalindrome(String s) {
     int n = s.length();
     if (n <= 1) return s;
 
-    // length = window size
-    for (int len = n; len >= 1; len--) {
+    for (int len = n; len > 0; len--) {
         for (int i = 0; i + len - 1 < n; i++) {
             int j = i + len - 1;
 
