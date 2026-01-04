@@ -7,7 +7,7 @@ class Solution {
                 st.push(ch);
             } else {
                 if (st.isEmpty()) {
-                    return false;  
+                     return false;  
                 }
                 char top = st.peek();
                 if ((ch == ')' && top == '(') ||
