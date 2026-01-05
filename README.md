@@ -189,6 +189,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0120-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
@@ -355,6 +356,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0072-edit-distance](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
