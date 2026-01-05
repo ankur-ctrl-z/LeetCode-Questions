@@ -115,6 +115,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0290-word-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0290-word-pattern) |
@@ -142,6 +143,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0290-word-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0290-word-pattern) |
@@ -183,6 +185,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0090-subsets-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
@@ -347,6 +350,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0070-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
@@ -441,6 +445,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -491,4 +496,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0039-combination-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0090-subsets-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
