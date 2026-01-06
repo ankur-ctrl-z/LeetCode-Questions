@@ -145,6 +145,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -187,6 +188,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0049-group-anagrams](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0090-subsets-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
@@ -407,6 +409,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0801-is-graph-bipartite](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
