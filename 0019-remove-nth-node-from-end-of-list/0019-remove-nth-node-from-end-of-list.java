@@ -18,7 +18,6 @@ class Solution {
             temp = temp.next;
         }
 
-        // remove head
         if (n == length) {
             return head.next;
         }
