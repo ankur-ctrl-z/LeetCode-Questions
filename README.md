@@ -188,6 +188,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0011-container-with-most-water](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0090-subsets-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0120-triangle) |
@@ -236,6 +237,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0258-add-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0258-add-digits) |
@@ -438,6 +440,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [3797-design-spreadsheet](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
 ## Linked List
