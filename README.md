@@ -99,6 +99,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0005-longest-palindromic-substring](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -438,6 +439,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
