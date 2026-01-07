@@ -19,7 +19,7 @@ class Solution {
        int i = 0;
        int j = ll.size()-1;
        ListNode temp2 = head;
-       while(temp2 != null && i < j){
+       while(temp2 != null && i <= j){
          temp2.val = ll.get(i);
          temp2 = temp2.next;
          if(temp2 != null){
@@ -29,8 +29,8 @@ class Solution {
          i++;
          j--;
        }
-       if(i == j && temp2 != null) {
-        temp2.val = ll.get(i);
-       }
+    //    if(i == j && temp2 != null) {
+    //     temp2.val = ll.get(i);
+    //    }
     }
 }
