@@ -124,6 +124,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0290-word-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
 | [1006-vowel-spellchecker](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1006-vowel-spellchecker) |
@@ -155,6 +156,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0290-word-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0525-contiguous-array) |
@@ -509,6 +511,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 ## Backtracking
 |  |
