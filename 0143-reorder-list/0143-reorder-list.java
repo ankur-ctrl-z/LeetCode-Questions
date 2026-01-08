@@ -12,7 +12,6 @@ class Solution {
     public void reorderList(ListNode head) {
         if (head == null || head.next == null) return;
 
-        // find middle
         ListNode slow = head;
         ListNode fast = head;
         while (fast.next != null && fast.next.next != null) {
@@ -20,9 +19,8 @@ class Solution {
             fast = fast.next.next;
         }
 
-        // reverse second half
         ListNode mid = slow.next;
-        slow.next = null;          // split list
+        slow.next = null;          
         ListNode prev = null;
 
         while (mid != null) {
