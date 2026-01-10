@@ -11,7 +11,6 @@ class Solution {
 
         List<List<Integer>> result = new ArrayList<>();
 
-        // Try DFS from every cell
         for (int r = 0; r < m; r++) {
             for (int c = 0; c < n; c++) {
                 visited = new boolean[m][n];
@@ -29,14 +28,12 @@ class Solution {
     }
 
     private void dfs(int r, int c) {
-        // boundary or visited check
         if (r < 0 || c < 0 || r >= m || c >= n || visited[r][c]) {
             return;
         }
 
         visited[r][c] = true;
 
-        // Check ocean reach
         if (r == 0 || c == 0) pacific = true;
         if (r == m - 1 || c == n - 1) atlantic = true;
 
