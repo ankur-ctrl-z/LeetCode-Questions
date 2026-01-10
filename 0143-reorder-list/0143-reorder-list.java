@@ -37,7 +37,7 @@ class Solution {
         while (second != null) {
             ListNode nextFirst = first.next;
             first.next = second;
-            first = second;
+            first = second; // he node second becomes the last node of the reordered list so far.
             second = nextFirst;
         }
 
