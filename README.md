@@ -211,6 +211,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
@@ -375,6 +376,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0300-longest-increasing-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -419,6 +421,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0322-coin-change](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 ## Union Find
 |  |
@@ -449,6 +452,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0048-rotate-image](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [3797-design-spreadsheet](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
 ## Linked List
