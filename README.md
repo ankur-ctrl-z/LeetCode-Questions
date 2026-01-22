@@ -179,6 +179,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -199,6 +200,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0128-longest-consecutive-sequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0164-maximum-gap) |
@@ -245,6 +247,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0048-rotate-image](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0258-add-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0279-perfect-squares) |
