@@ -1,32 +1,45 @@
+import java.util.Stack;
+
 class Solution {
     public int evalRPN(String[] tokens) {
-        Stack<Integer> st = new Stack<>();
+        Stack<String> st = new Stack<>();
         
-        for (int i = 0; i < tokens.length; i++) {
-            String token = tokens[i];
-            
+        // Corrected loop to push all tokens onto the stack first
+        for(int i = 0; i < tokens.length; i++){
+           st.push(tokens[i]);
+        }
+
+        // Using a temporary stack to process in the correct RPN order
+        Stack<Integer> temp = new Stack<>();
+
+        // We iterate through the original stack exactly once
+        for (String token : st) {
             if (token.length() == 1 && isOperators(token.charAt(0))) {
-                int b = st.pop(); 
-                int a = st.pop();
-                char op = token.charAt(0);
-                
+                // When we hit an operator, we pop two from our number stack
+                int b = temp.pop(); 
+                int a = temp.pop();
+                char ch = token.charAt(0);
                 int result = 0;
-                switch (op) {
+
+                switch (ch) {
                     case '+': result = a + b; break;
                     case '-': result = a - b; break;
                     case '*': result = a * b; break;
                     case '/': result = a / b; break;
                 }
-                st.push(result);
+                temp.push(result);
             } else {
-                st.push(Integer.parseInt(token));
+                // If it's a number, convert and store in the number stack
+                temp.push(Integer.parseInt(token));
             }
         }
-        return st.pop();
+        
+        return temp.pop();
     }
 
-    public static boolean isOperators(char ch) {
+    public static boolean isOperators(char ch){
         return ch == '+' || ch == '-' || ch == '*' || ch == '/';
     }
 }
+
 
