@@ -1,39 +1,38 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        Stack<String> st = new Stack<>();
+        Stack<Integer> stack = new Stack<>();
         
-        for(int i = 0; i < tokens.length; i++){
-           st.push(tokens[i]);
-        }
-
-        Stack<Integer> temp = new Stack<>();
-
-        for (String token : st) {
-            if (token.length() == 1 && isOperators(token.charAt(0))) {
-                int b = temp.pop(); 
-                int a = temp.pop();
-                char ch = token.charAt(0);
-                int result = 0;
-
-                switch (ch) {
-                    case '+': result = a + b; break;
-                    case '-': result = a - b; break;
-                    case '*': result = a * b; break;
-                    case '/': result = a / b; break;
-                }
-                temp.push(result);
+        for (String token : tokens) {
+            if (token.length() == 1 && isOperator(token.charAt(0))) {
+                int b = stack.pop(); 
+                int a = stack.pop();
+                stack.push(operate(a, b, token.charAt(0)));
             } else {
-                temp.push(Integer.parseInt(token));
+                stack.push(Integer.parseInt(token));
             }
         }
         
-        return temp.pop();
+        return stack.pop();
+    }
+    
+    private int operate(int a, int b, char op) {
+        switch (op) {
+            case '+': return a + b;
+            case '-': return a - b;
+            case '*': return a * b;
+            case '/': return a / b;
+            default: throw new IllegalArgumentException();
+        }
     }
 
-    public static boolean isOperators(char ch){
+    private boolean isOperator(char ch) {
         return ch == '+' || ch == '-' || ch == '*' || ch == '/';
     }
 }
+
+
+
+
 
 
 
