@@ -12,7 +12,7 @@ class Solution {
             }
         }
         
-        return stack.pop();
+        return stack.peek();
     }
     
     private int operate(int a, int b, char op) {
