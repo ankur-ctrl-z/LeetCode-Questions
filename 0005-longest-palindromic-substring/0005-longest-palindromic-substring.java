@@ -13,7 +13,7 @@ public String longestPalindrome(String s) {
         }
     }
 
-    return "";
+    return ""; 
 }
 
 private boolean isPalindrome(String s, int left, int right) {
