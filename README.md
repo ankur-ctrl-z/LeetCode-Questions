@@ -195,6 +195,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0039-combination-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0120-triangle) |
@@ -331,6 +332,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
@@ -371,6 +373,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0120-triangle) |
