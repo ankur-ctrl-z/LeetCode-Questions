@@ -181,6 +181,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -448,6 +449,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0155-min-stack) |
 | [2023-design-movie-rental-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3678-design-task-manager) |
