@@ -134,6 +134,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
@@ -164,6 +165,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0525-contiguous-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [1006-vowel-spellchecker](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1657-determine-if-two-strings-are-close](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2428-equal-row-and-column-pairs) |
@@ -298,6 +300,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0941-sort-array-by-parity](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1657-determine-if-two-strings-are-close](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2756-buy-two-chocolates](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2756-buy-two-chocolates) |
 | [2887-sort-vowels-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -330,6 +333,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
