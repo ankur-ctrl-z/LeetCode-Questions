@@ -20,7 +20,7 @@ class Solution {
         Arrays.sort(freq1);
         Arrays.sort(freq2);
 
-        for (int i = 0; i < 26; i++) {
+        for (int i = 0; i < freq1.length; i++) {
             if (freq1[i] != freq2[i]) {
                 return false;
             }
