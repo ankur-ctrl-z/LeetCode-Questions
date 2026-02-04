@@ -27,8 +27,8 @@ class Solution {
             for (int i = 0; i < size; i++) {
                 TreeNode node = q.poll();
 
-                if (i == size - 1) {
-                    result.add(node.val);
+                if (i == size - 1) { // becuase right getting pushed last then size - 1 will show the right most node
+                    result.add(node.val); 
                 }
 
                 if (node.left != null) q.add(node.left);
