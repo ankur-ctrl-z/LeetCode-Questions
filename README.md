@@ -227,6 +227,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0917-boats-to-save-people](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1006-vowel-spellchecker](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -260,6 +261,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0415-add-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0830-largest-triangle-area](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -279,6 +281,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Sorting
 |  |
@@ -293,6 +296,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0658-find-k-closest-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [2756-buy-two-chocolates](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2756-buy-two-chocolates) |
 | [2887-sort-vowels-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2887-sort-vowels-in-a-string) |
@@ -306,11 +310,13 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [2023-design-movie-rental-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3678-design-task-manager) |
@@ -331,6 +337,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
