@@ -124,6 +124,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0165-compare-version-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0290-word-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0290-word-pattern) |
+| [0394-decode-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -184,6 +185,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0143-reorder-list](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -566,4 +568,5 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
