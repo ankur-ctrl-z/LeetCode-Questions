@@ -202,6 +202,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0048-rotate-image](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0120-triangle) |
@@ -292,6 +293,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0015-3sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
