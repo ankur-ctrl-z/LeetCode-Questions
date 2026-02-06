@@ -257,6 +257,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -393,6 +394,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0091-decode-ways) |
@@ -511,6 +513,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Tree
 |  |
