@@ -248,6 +248,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2756-buy-two-chocolates](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2756-buy-two-chocolates) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3379-transformed-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3379-transformed-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -388,6 +389,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [3336-water-bottles-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
