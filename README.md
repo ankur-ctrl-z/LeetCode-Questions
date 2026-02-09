@@ -214,6 +214,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
@@ -505,6 +506,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
