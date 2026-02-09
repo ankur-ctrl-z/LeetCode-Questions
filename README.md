@@ -153,6 +153,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -204,6 +205,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0055-jump-game](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -485,6 +487,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2428-equal-row-and-column-pairs) |
