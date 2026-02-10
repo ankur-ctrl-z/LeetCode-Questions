@@ -111,6 +111,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0658-find-k-closest-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2128-reverse-prefix-of-word) |
 ## String
@@ -137,6 +138,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
