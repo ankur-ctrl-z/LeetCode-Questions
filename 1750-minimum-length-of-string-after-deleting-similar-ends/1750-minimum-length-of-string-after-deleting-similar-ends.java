@@ -1,26 +1,15 @@
 class Solution {
     public int minimumLength(String s) {
-        StringBuilder st = new StringBuilder(s);
+        int l = 0, r = s.length() - 1;
 
-        while (st.length() > 1) {
-            int i = 0;
-            int j = st.length() - 1;
+        while (l < r && s.charAt(l) == s.charAt(r)) {
+            char ch = s.charAt(l);
 
-            if (st.charAt(i) != st.charAt(j)) {
-                break;
-            }
-
-            char ch = st.charAt(i);
-
-            while (st.length() > 0 && st.charAt(0) == ch) {
-                st.deleteCharAt(0);
-            }
-
-            while (st.length() > 0 && st.charAt(st.length() - 1) == ch) {
-                st.deleteCharAt(st.length() - 1);
-            }
+            while (l <= r && s.charAt(l) == ch) l++;
+            while (l <= r && s.charAt(r) == ch) r--;
         }
 
-        return st.length();
+        return r - l + 1 < 0 ? 0 : r - l + 1;
     }
 }
+
