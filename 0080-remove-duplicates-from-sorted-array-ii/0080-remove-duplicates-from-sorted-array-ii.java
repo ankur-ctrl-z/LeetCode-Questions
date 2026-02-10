@@ -10,15 +10,12 @@ class Solution {
         while (k < nums.length - count) {
             if (nums[i] == nums[j] && nums[j] == nums[k]) {
 
-                // shift left
                 for (int a = k; a < nums.length - 1; a++) {
                     nums[a] = nums[a + 1];
                 }
 
                 count++;
 
-                // DO NOT move i, j, k
-                // need to recheck at same position
             } else {
                 i++;
                 j++;
