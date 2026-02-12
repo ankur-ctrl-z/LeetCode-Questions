@@ -107,6 +107,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0397-integer-replacement) |
+| [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 ## Greedy
 |  |
 | ------- |
@@ -119,4 +120,12 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0397-integer-replacement) |
+## Array
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
+## String
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
