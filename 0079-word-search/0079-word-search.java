@@ -1,12 +1,10 @@
 class Solution {
-    public boolean exist(char[][] board, String word) {
-        int rows = board.length;
-        int cols = board[0].length;
+    public boolean exist(char[][] arr, String word) {
+        int m = arr.length, n = arr[0].length;
 
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                // Start DFS if first character matches
-                if (dfs(board, word, i, j, 0)) {
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (isexist(i, j, 0, arr, word)) {
                     return true;
                 }
             }
@@ -14,31 +12,24 @@ class Solution {
         return false;
     }
 
-    private boolean dfs(char[][] board, String word, int row, int col, int index) {
-        // If we have matched the whole word
-        if (index == word.length()) {
-            return true;
-        }
+    public static boolean isexist(int i, int j, int idx, char[][] arr, String word) {
+        if (idx == word.length()) return true;
 
-        // Boundary check + character match check
-        if (row < 0 || row >= board.length || col < 0 || col >= board[0].length
-                || board[row][col] != word.charAt(index)) {
+        if (i < 0 || j < 0 || i >= arr.length || j >= arr[0].length ||
+            arr[i][j] != word.charAt(idx)) {
             return false;
         }
 
-        // Mark current cell as visited
-        char temp = board[row][col];
-        board[row][col] = '#';
+        char temp = arr[i][j];
+        arr[i][j] = '#';
 
-        // Explore all 4 directions
-        boolean found = dfs(board, word, row + 1, col, index + 1) ||
-                        dfs(board, word, row - 1, col, index + 1) ||
-                        dfs(board, word, row, col + 1, index + 1) ||
-                        dfs(board, word, row, col - 1, index + 1);
+        boolean found =
+                isexist(i + 1, j, idx + 1, arr, word) ||
+                isexist(i - 1, j, idx + 1, arr, word) ||
+                isexist(i, j + 1, idx + 1, arr, word) ||
+                isexist(i, j - 1, idx + 1, arr, word);
 
-        // Backtrack (restore the cell)
-        board[row][col] = temp;
-
+        arr[i][j] = temp;
         return found;
     }
 }
