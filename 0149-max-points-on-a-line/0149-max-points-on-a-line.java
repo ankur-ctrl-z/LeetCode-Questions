@@ -22,7 +22,7 @@ class Solution {
                 max = Math.max(max, map.get(key));
             }
 
-            result = Math.max(result, max + 1); // +1 for anchor point
+            result = Math.max(result, max + 1); 
         }
 
         return result;
