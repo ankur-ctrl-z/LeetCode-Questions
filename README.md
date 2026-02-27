@@ -136,6 +136,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0213-house-robber-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
@@ -152,6 +153,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 ## Backtracking
@@ -166,6 +168,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +179,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Stack
@@ -208,4 +212,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
