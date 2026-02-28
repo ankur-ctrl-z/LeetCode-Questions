@@ -132,6 +132,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
@@ -167,6 +168,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Math
@@ -203,6 +205,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 ## Geometry
 |  |
