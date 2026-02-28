@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public boolean isValidSudoku(char[][] board) {
 
