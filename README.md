@@ -145,6 +145,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 ## String
 |  |
@@ -176,6 +177,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Math
 |  |
 | ------- |
@@ -229,4 +231,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 <!---LeetCode Topics End-->
