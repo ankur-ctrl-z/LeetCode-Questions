@@ -113,6 +113,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [1143-longest-common-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -143,6 +144,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -176,6 +178,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0036-valid-sudoku](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Math
