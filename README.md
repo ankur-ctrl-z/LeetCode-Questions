@@ -148,6 +148,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2906-construct-product-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -183,6 +184,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2906-construct-product-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Math
@@ -193,6 +195,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0343-integer-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0343-integer-break) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,6 +241,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Prefix Sum
 |  |
 | ------- |
