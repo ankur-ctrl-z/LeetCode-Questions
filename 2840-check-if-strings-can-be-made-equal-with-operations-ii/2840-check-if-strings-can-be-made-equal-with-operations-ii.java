@@ -4,7 +4,6 @@ class Solution {
         StringBuilder s1Even = new StringBuilder(), s1Odd = new StringBuilder();
         StringBuilder s2Even = new StringBuilder(), s2Odd = new StringBuilder();
         
-        // Extract characters
         for (int i = 0; i < n; i++) {
             if (i % 2 == 0) {
                 s1Even.append(s1.charAt(i));
@@ -15,7 +14,6 @@ class Solution {
             }
         }
         
-        // Convert to arrays to sort
         char[] e1 = s1Even.toString().toCharArray();
         char[] e2 = s2Even.toString().toCharArray();
         char[] o1 = s1Odd.toString().toCharArray();
