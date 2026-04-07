@@ -189,6 +189,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -282,4 +283,12 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2069-walking-robot-simulation-ii) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
