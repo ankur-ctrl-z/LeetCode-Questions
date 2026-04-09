@@ -160,6 +160,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## String
 |  |
@@ -299,6 +300,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Sliding Window
 |  |
 | ------- |
