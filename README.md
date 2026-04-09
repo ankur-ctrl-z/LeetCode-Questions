@@ -149,6 +149,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0874-walking-robot-simulation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0874-walking-robot-simulation) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -212,6 +213,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0343-integer-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0343-integer-break) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -248,6 +250,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0874-walking-robot-simulation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0874-walking-robot-simulation) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Geometry
 |  |
@@ -273,6 +276,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Prefix Sum
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2906-construct-product-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -305,4 +309,5 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
