@@ -141,6 +141,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0036-valid-sudoku](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
@@ -180,6 +181,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -264,6 +266,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Heap (Priority Queue)
 |  |
