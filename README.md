@@ -170,6 +170,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
 | [0224-basic-calculator](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
