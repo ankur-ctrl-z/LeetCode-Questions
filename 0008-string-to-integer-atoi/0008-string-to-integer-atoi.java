@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 class Solution {
     ArrayList<Character> ll = new ArrayList<>();
 
