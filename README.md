@@ -158,6 +158,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2463-minimum-total-distance-traveled](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -179,6 +180,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
