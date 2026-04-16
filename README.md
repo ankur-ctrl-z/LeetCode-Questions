@@ -165,6 +165,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -234,6 +235,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3488-closest-equal-element-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Stack
 |  |
@@ -263,6 +265,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0874-walking-robot-simulation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0874-walking-robot-simulation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3488-closest-equal-element-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Geometry
 |  |
