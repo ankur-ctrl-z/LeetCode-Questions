@@ -231,6 +231,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |
