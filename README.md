@@ -182,6 +182,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -329,5 +330,6 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
