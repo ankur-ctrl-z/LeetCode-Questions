@@ -125,6 +125,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0397-integer-replacement](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -158,6 +159,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0874-walking-robot-simulation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -201,6 +203,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0912-sort-an-array) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2463-minimum-total-distance-traveled](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2751-robot-collisions) |
@@ -279,6 +282,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0740-delete-and-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0740-delete-and-earn) |
 | [0874-walking-robot-simulation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0874-walking-robot-simulation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
