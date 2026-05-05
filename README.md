@@ -114,6 +114,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0740-delete-and-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0740-delete-and-earn) |
+| [1043-partition-array-for-maximum-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2463-minimum-total-distance-traveled) |
@@ -160,6 +161,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0740-delete-and-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0740-delete-and-earn) |
 | [0874-walking-robot-simulation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0912-sort-an-array) |
+| [1043-partition-array-for-maximum-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
