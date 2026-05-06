@@ -188,6 +188,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3834-merge-adjacent-equal-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3834-merge-adjacent-equal-elements) |
 ## String
 |  |
 | ------- |
@@ -273,6 +274,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2751-robot-collisions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2751-robot-collisions) |
+| [3834-merge-adjacent-equal-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -324,6 +326,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2751-robot-collisions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3834-merge-adjacent-equal-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Prefix Sum
 |  |
 | ------- |
