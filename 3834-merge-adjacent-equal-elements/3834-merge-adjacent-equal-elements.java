@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public List<Long> mergeAdjacent(int[] nums) {
 
