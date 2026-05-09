@@ -397,4 +397,5 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0237-delete-node-in-a-linked-list](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
