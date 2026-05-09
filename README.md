@@ -154,6 +154,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
@@ -253,6 +254,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0029-divide-two-integers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
+| [0204-count-primes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0343-integer-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0343-integer-break) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -342,6 +344,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0204-count-primes) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 ## String Matching
 |  |
@@ -403,4 +406,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0024-swap-nodes-in-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0142-linked-list-cycle-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
