@@ -138,6 +138,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0397-integer-replacement](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0397-integer-replacement) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Memoization
@@ -250,6 +251,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0343-integer-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0343-integer-break) |
