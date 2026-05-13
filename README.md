@@ -255,6 +255,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0204-count-primes) |
@@ -293,6 +294,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0224-basic-calculator) |
 ## Hash Table
@@ -406,6 +408,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0142-linked-list-cycle-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
