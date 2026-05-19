@@ -4,7 +4,7 @@ class Solution {
         int k = 2; 
         int count = 0; 
         
-        while (i <= s.length() - 3) { 
+        while (i <= s.length() - 2) { 
             HashSet<Character> set = new HashSet<>(); 
             set.add(s.charAt(i)); 
             int j = i + 1; 
