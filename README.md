@@ -207,6 +207,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1143-longest-common-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2833-furthest-point-from-origin) |
@@ -311,6 +312,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -381,6 +383,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Union-Find
 |  |
 | ------- |
@@ -402,6 +405,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0912-sort-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
