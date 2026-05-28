@@ -1,32 +1,31 @@
-import java.util.*;
-
 class Solution {
-    public boolean isPossibleDivide(int[] nums, int k) {
-        if (nums.length % k != 0) return false;
-
-        TreeMap<Integer, Integer> map = new TreeMap<>();
-
-        // frequency count
-        for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+    public boolean isPossibleDivide(int[] arr, int m) {
+        if (arr.length % m != 0) {
+            return false;
         }
 
-        // greedy: always start from smallest available
-        while (!map.isEmpty()) {
-            int start = map.firstKey();
+        Arrays.sort(arr);
+        boolean[] visited = new boolean[arr.length];
 
-            for (int i = 0; i < k; i++) {
-                int curr = start + i;
+        for (int i = 0; i < arr.length; i++) {
+            if (visited[i]) {
+                continue;
+            }
 
-                if (!map.containsKey(curr)) {
-                    return false;
+            int curr = arr[i];
+            visited[i] = true;
+            int k = m - 1;
+
+            for (int j = i + 1; j < arr.length && k > 0; j++) {
+                if (arr[j] == curr + 1 && !visited[j]) {
+                    visited[j] = true;
+                    curr = arr[j];
+                    k--;
                 }
+            }
 
-                map.put(curr, map.get(curr) - 1);
-
-                if (map.get(curr) == 0) {
-                    map.remove(curr);
-                }
+            if (k > 0) {
+                return false;
             }
         }
 
