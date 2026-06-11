@@ -179,6 +179,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -325,6 +326,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -379,11 +381,13 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
 | ------- |
