@@ -139,6 +139,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,6 +195,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
