@@ -125,6 +125,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -286,6 +287,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
