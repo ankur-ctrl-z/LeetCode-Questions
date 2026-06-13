@@ -191,6 +191,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2906-construct-product-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3161-block-placement-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
@@ -296,6 +297,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3161-block-placement-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 | [3488-closest-equal-element-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Stack
@@ -316,6 +318,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
+| [3161-block-placement-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 ## Recursion
 |  |
 | ------- |
@@ -457,5 +460,10 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
