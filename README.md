@@ -191,6 +191,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2906-construct-product-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3093-longest-common-suffix-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -227,6 +228,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3093-longest-common-suffix-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3093-longest-common-suffix-queries) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
 |  |
@@ -442,6 +444,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3093-longest-common-suffix-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3093-longest-common-suffix-queries) |
 ## Linked List
 |  |
 | ------- |
