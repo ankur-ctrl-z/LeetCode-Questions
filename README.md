@@ -141,6 +141,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -200,6 +201,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -351,6 +353,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0912-sort-an-array) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -449,4 +452,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0322-coin-change) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
