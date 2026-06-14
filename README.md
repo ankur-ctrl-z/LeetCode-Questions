@@ -269,6 +269,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -411,6 +412,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -418,6 +420,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
@@ -490,4 +493,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1947-maximum-compatibility-score-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1947-maximum-compatibility-score-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
