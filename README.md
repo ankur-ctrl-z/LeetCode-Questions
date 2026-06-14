@@ -120,6 +120,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1143-longest-common-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1947-maximum-compatibility-score-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1947-maximum-compatibility-score-sum) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2463-minimum-total-distance-traveled](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -151,6 +152,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0397-integer-replacement](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0397-integer-replacement) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1947-maximum-compatibility-score-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1947-maximum-compatibility-score-sum) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Memoization
 |  |
@@ -185,6 +187,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1947-maximum-compatibility-score-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1947-maximum-compatibility-score-sum) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -254,6 +257,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0046-permutations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
 | [1947-maximum-compatibility-score-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1947-maximum-compatibility-score-sum) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -477,4 +481,5 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [1947-maximum-compatibility-score-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1947-maximum-compatibility-score-sum) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 <!---LeetCode Topics End-->
