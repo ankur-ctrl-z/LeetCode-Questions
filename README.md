@@ -121,6 +121,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1947-maximum-compatibility-score-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1947-maximum-compatibility-score-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2463-minimum-total-distance-traveled](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -153,6 +154,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1947-maximum-compatibility-score-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1947-maximum-compatibility-score-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Memoization
 |  |
@@ -230,6 +232,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1234-replace-the-substring-for-balanced-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2833-furthest-point-from-origin) |
@@ -258,6 +261,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
 | [1947-maximum-compatibility-score-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1947-maximum-compatibility-score-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -482,4 +486,5 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [1947-maximum-compatibility-score-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1947-maximum-compatibility-score-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
