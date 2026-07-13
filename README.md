@@ -304,6 +304,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0204-count-primes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0343-integer-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0343-integer-break) |
+| [0400-nth-digit](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0400-nth-digit) |
 | [0670-maximum-swap](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0670-maximum-swap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -319,6 +320,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0400-nth-digit) |
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3161-block-placement-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3161-block-placement-queries) |
