@@ -4,7 +4,7 @@ class Solution {
      for(int i = 0; i < nums.length; i++){
         for(int j = 0; j < nums.length; j++){
             if(i != j && nums[i] + nums[j] == target) {
-               list.add(i);
+               list.add(i); 
                list.add(j);
 
                int result[] = new int[list.size()];
