@@ -332,6 +332,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -417,6 +418,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [2069-walking-robot-simulation-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2069-walking-robot-simulation-ii) |
 ## Tree
 |  |
@@ -508,4 +510,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0538-convert-bst-to-greater-tree) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
