@@ -1,30 +1,30 @@
 class MyStack {
-    Queue<Integer> queue = new LinkedList<>();
-    public MyStack() {
+    private Queue<Integer> q1 = new LinkedList<>();
+    private Queue<Integer> q2 = new LinkedList<>();
 
+    public void push(int x) {
+        q2.add(x);
+        while (!q1.isEmpty()) {
+            q2.add(q1.remove());
+        }
+        Queue<Integer> temp = q1;
+        q1 = q2;
+        q2 = temp;
     }
-    
-public void push(int x) {
-    queue.offer(x);
-    int size = queue.size();
-    while (size-- > 1) {
-        queue.offer(queue.poll());
-    }
-}
 
-    
     public int pop() {
-        return queue.poll();
+        return q1.remove();
     }
-    
+
     public int top() {
-        return queue.peek();
+        return q1.peek();
     }
-    
+
     public boolean empty() {
-        return queue.isEmpty();
+        return q1.isEmpty();
     }
 }
+
 
 /**
  * Your MyStack object will be instantiated and called as such:
