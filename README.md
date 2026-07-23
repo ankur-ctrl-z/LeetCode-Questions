@@ -206,6 +206,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2463-minimum-total-distance-traveled](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2607-make-k-subarray-sums-equal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2607-make-k-subarray-sums-equal) |
+| [2679-sum-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -264,6 +265,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2463-minimum-total-distance-traveled](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2607-make-k-subarray-sums-equal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2607-make-k-subarray-sums-equal) |
+| [2679-sum-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
@@ -294,6 +296,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2679-sum-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2679-sum-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -392,6 +395,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0912-sort-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2679-sum-in-a-matrix) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
 |  |
@@ -400,6 +404,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2069-walking-robot-simulation-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2679-sum-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
