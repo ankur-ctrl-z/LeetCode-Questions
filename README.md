@@ -117,6 +117,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0740-delete-and-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0740-delete-and-earn) |
+| [0935-knight-dialer](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0935-knight-dialer) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
