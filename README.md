@@ -117,6 +117,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0740-delete-and-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0740-delete-and-earn) |
+| [0931-minimum-falling-path-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0935-knight-dialer](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0935-knight-dialer) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
@@ -187,6 +188,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0740-delete-and-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0740-delete-and-earn) |
 | [0874-walking-robot-simulation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -295,6 +297,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0063-unique-paths-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2679-sum-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2679-sum-in-a-matrix) |
