@@ -8,7 +8,7 @@ class Solution {
             smallest = arr[i];
            }else if(arr[i] <= second){
             second = arr[i];
-           } else if(arr[i] > second){
+           } else {
             return true;
            }
         }
