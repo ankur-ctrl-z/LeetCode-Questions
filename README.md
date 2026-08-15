@@ -164,6 +164,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2401-longest-nice-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2401-longest-nice-subarray) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Memoization
 |  |
 | ------- |
@@ -225,6 +226,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [3488-closest-equal-element-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -369,6 +371,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0002-add-two-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0224-basic-calculator) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -430,6 +433,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0204-count-primes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0204-count-primes) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## String Matching
 |  |
 | ------- |
