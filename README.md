@@ -266,6 +266,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0075-sort-colors](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0869-reordered-power-of-2](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0869-reordered-power-of-2) |
 | [0912-sort-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -324,6 +325,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0343-integer-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0343-integer-break) |
 | [0400-nth-digit](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0400-nth-digit) |
 | [0670-maximum-swap](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0670-maximum-swap) |
+| [0869-reordered-power-of-2](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0869-reordered-power-of-2) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -381,6 +383,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0740-delete-and-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0740-delete-and-earn) |
+| [0869-reordered-power-of-2](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0869-reordered-power-of-2) |
 | [0874-walking-robot-simulation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0874-walking-robot-simulation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -432,6 +435,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0204-count-primes) |
+| [0869-reordered-power-of-2](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0869-reordered-power-of-2) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## String Matching
@@ -491,6 +495,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Counting Sort
 |  |
 | ------- |
+| [0869-reordered-power-of-2](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0869-reordered-power-of-2) |
 | [0912-sort-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
