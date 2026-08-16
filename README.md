@@ -126,6 +126,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1947-maximum-compatibility-score-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1947-maximum-compatibility-score-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2463-minimum-total-distance-traveled](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -207,6 +208,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [2073-time-needed-to-buy-tickets](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2401-longest-nice-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2401-longest-nice-subarray) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2463-minimum-total-distance-traveled) |
@@ -356,6 +358,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0316-remove-duplicate-letters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2751-robot-collisions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2751-robot-collisions) |
 | [3834-merge-adjacent-equal-elements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Monotonic Stack
@@ -363,6 +366,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Ordered Set
 |  |
 | ------- |
@@ -419,6 +423,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2069-walking-robot-simulation-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2679-sum-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -513,6 +518,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0024-swap-nodes-in-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0142-linked-list-cycle-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Number Theory
 |  |
 | ------- |
