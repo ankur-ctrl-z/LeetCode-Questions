@@ -337,6 +337,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -517,6 +518,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0204-count-primes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0204-count-primes) |
 | [2607-make-k-subarray-sums-equal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2607-make-k-subarray-sums-equal) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Breadth-First Search
 |  |
 | ------- |
