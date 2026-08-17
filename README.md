@@ -293,6 +293,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -456,6 +457,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -464,6 +466,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -547,6 +550,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 ## Queue
 |  |
