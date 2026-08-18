@@ -254,6 +254,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1143-longest-common-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -486,6 +487,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1234-replace-the-substring-for-balanced-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2401-longest-nice-subarray](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2401-longest-nice-subarray) |
 ## Union-Find
