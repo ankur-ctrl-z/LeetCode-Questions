@@ -199,6 +199,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1695-maximum-erasure-value](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -333,6 +334,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0869-reordered-power-of-2](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0869-reordered-power-of-2) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2607-make-k-subarray-sums-equal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -437,6 +439,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2906-construct-product-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
