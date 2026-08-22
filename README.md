@@ -126,6 +126,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1947-maximum-compatibility-score-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1947-maximum-compatibility-score-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2063-vowels-of-all-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2063-vowels-of-all-substrings) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2463-minimum-total-distance-traveled](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -259,6 +260,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2063-vowels-of-all-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2063-vowels-of-all-substrings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2833-furthest-point-from-origin) |
@@ -335,6 +337,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2063-vowels-of-all-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2063-vowels-of-all-substrings) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2607-make-k-subarray-sums-equal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -569,4 +572,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
