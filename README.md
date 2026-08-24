@@ -183,6 +183,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -444,6 +445,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2906-construct-product-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
