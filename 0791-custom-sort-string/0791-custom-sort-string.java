@@ -12,7 +12,6 @@ class Solution {
                 idx = st2.indexOf(String.valueOf(ch));
             }
         }
-
         return ans + st2.toString();
     }
 }
