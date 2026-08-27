@@ -180,6 +180,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0075-sort-colors](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0213-house-robber-ii) |
@@ -273,6 +274,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0791-custom-sort-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0791-custom-sort-string) |
@@ -397,6 +399,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0036-valid-sudoku](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0740-delete-and-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0740-delete-and-earn) |
 | [0791-custom-sort-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0791-custom-sort-string) |
@@ -487,6 +490,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -520,6 +524,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0869-reordered-power-of-2](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0869-reordered-power-of-2) |
 | [0912-sort-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -581,4 +586,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2063-vowels-of-all-substrings) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
