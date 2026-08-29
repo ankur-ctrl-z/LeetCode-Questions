@@ -174,6 +174,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
@@ -248,6 +249,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
 | [0224-basic-calculator](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0224-basic-calculator) |
@@ -533,6 +535,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3093-longest-common-suffix-queries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3093-longest-common-suffix-queries) |
 ## Linked List
