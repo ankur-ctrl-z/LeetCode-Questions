@@ -175,6 +175,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
@@ -424,6 +425,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
