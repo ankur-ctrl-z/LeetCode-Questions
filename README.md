@@ -178,6 +178,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0027-remove-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
@@ -251,6 +252,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
 | [0224-basic-calculator](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0224-basic-calculator) |
@@ -276,6 +278,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -400,6 +403,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0169-majority-element) |
