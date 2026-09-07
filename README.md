@@ -145,6 +145,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0670-maximum-swap](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0670-maximum-swap) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -265,6 +266,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -349,6 +351,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0400-nth-digit](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0400-nth-digit) |
 | [0670-maximum-swap](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0670-maximum-swap) |
 | [0869-reordered-power-of-2](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0869-reordered-power-of-2) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
