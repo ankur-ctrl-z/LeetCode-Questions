@@ -112,6 +112,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0213-house-robber-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
@@ -302,6 +303,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0046-permutations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1947-maximum-compatibility-score-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1947-maximum-compatibility-score-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -342,6 +344,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0204-count-primes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0343-integer-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0400-nth-digit](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0400-nth-digit) |
 | [0670-maximum-swap](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0670-maximum-swap) |
 | [0869-reordered-power-of-2](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0869-reordered-power-of-2) |
