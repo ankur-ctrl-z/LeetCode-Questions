@@ -196,6 +196,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
+| [0654-maximum-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
 | [0740-delete-and-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0740-delete-and-earn) |
 | [0874-walking-robot-simulation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0912-sort-an-array) |
@@ -379,6 +380,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0225-implement-stack-using-queues](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
+| [0654-maximum-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2751-robot-collisions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2751-robot-collisions) |
@@ -388,6 +390,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
+| [0654-maximum-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Ordered Set
 |  |
@@ -488,6 +491,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0098-validate-binary-search-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0654-maximum-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -497,11 +501,13 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0098-validate-binary-search-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0654-maximum-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0654-maximum-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -602,4 +608,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0169-majority-element) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
