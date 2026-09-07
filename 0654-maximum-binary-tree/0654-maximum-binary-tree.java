@@ -18,7 +18,7 @@ class Solution {
         return build(nums, 0, nums.length - 1);
     }
 
-    private TreeNode build(int[] nums, int left, int right) {
+    public static TreeNode build(int[] nums, int left, int right) {
         if (left > right) return null;
 
         int maxIdx = left;
