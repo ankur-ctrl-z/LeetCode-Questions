@@ -139,6 +139,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0397-integer-replacement) |
@@ -186,6 +187,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0063-unique-paths-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
+| [0135-candy](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
