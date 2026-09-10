@@ -179,6 +179,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0014-longest-common-prefix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
@@ -412,6 +413,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
