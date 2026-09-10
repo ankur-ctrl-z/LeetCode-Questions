@@ -1,8 +1,9 @@
 class Solution {
     public int candy(int[] arr) {
         int n = arr.length;
-        if (n == 1)
+        if (n == 1){
             return 1;
+        }    
         int[] candies = new int[n];
         Arrays.fill(candies, 1);
 
