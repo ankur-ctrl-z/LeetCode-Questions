@@ -347,6 +347,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0224-basic-calculator) |
@@ -410,6 +411,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Hash Table
