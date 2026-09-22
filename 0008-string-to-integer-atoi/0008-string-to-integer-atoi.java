@@ -1,7 +1,7 @@
 class Solution {
     ArrayList<Character> ll = new ArrayList<>();
 
-    public Solution() {
+    public Solution() { 
         for (int i = 0; i <= 9; i++) {
             ll.add((char) (i + '0'));
         }
