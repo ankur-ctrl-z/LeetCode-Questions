@@ -106,6 +106,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0198-house-robber) |
@@ -260,6 +261,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0008-string-to-integer-atoi](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0079-word-search) |
@@ -387,6 +389,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
@@ -627,4 +630,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
