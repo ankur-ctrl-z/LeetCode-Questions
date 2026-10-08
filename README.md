@@ -202,6 +202,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0435-non-overlapping-intervals](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0456-132-pattern](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
+| [0523-continuous-subarray-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0654-maximum-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
 | [0740-delete-and-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0740-delete-and-earn) |
 | [0874-walking-robot-simulation](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0874-walking-robot-simulation) |
@@ -358,6 +359,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0343-integer-break](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0400-nth-digit](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0400-nth-digit) |
+| [0523-continuous-subarray-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0670-maximum-swap) |
 | [0869-reordered-power-of-2](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0869-reordered-power-of-2) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -431,6 +433,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0149-max-points-on-a-line](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0740-delete-and-earn](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0740-delete-and-earn) |
 | [0791-custom-sort-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0791-custom-sort-string) |
 | [0869-reordered-power-of-2](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0869-reordered-power-of-2) |
@@ -480,6 +483,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2906-construct-product-matrix](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
@@ -634,4 +638,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
