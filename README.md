@@ -642,4 +642,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
