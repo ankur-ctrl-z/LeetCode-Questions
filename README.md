@@ -329,6 +329,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0538-convert-bst-to-greater-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0753-cracking-the-safe](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0753-cracking-the-safe) |
 | [0802-find-eventual-safe-states](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0802-find-eventual-safe-states) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -600,6 +601,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0133-clone-graph](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0802-find-eventual-safe-states](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0802-find-eventual-safe-states) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Segment Tree
 |  |
 | ------- |
@@ -659,6 +661,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0133-clone-graph](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0133-clone-graph) |
 | [0753-cracking-the-safe](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0753-cracking-the-safe) |
 | [0802-find-eventual-safe-states](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0802-find-eventual-safe-states) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -683,4 +686,8 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0802-find-eventual-safe-states) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
