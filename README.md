@@ -270,6 +270,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0316-remove-duplicate-letters](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
+| [0753-cracking-the-safe](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0753-cracking-the-safe) |
 | [0791-custom-sort-string](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0791-custom-sort-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
@@ -326,6 +327,7 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 | [0133-clone-graph](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0133-clone-graph) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0753-cracking-the-safe](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0753-cracking-the-safe) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -653,4 +655,17 @@ If you find this repository helpful, please consider giving it a **star** ⭐.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0133-clone-graph) |
+| [0753-cracking-the-safe](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0753-cracking-the-safe) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0753-cracking-the-safe) |
+## Eulerian Path
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0753-cracking-the-safe) |
+## Eulerian Graph
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/ankur-ctrl-z/LeetCode-Questions/tree/master/0753-cracking-the-safe) |
 <!---LeetCode Topics End-->
