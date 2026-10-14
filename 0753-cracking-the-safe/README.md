@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/cracking-the-safe">753. Cracking the Safe</a></h2><h3>Hard</h3><hr><p>There is a safe protected by a password. The password is a sequence of <code>n</code> digits where each digit can be in the range <code>[0, k - 1]</code>.</p>
+<h2><a href="https://leetcode.com/problems/cracking-the-safe">754. Cracking the Safe</a></h2><h3>Hard</h3><hr><p>There is a safe protected by a password. The password is a sequence of <code>n</code> digits where each digit can be in the range <code>[0, k - 1]</code>.</p>
 
 <p>The safe has a peculiar way of checking the password. When you enter in a sequence, it checks the <strong>most recent </strong><code>n</code><strong> digits</strong> that were entered each time you type a digit.</p>
 
